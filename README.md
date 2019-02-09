@@ -6,5 +6,7 @@ blue
 red
 white
 green
+also 
+pink
 
 this is the rainbow
