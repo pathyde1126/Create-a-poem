@@ -7,6 +7,6 @@ white
 green
 also 
 pink
-
+indigo
 this is the rainbow
 and the unicorn
